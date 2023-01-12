@@ -1,0 +1,204 @@
+{
+  "johto_pokemon": [
+    {
+      "id": 152,
+      "name": "Chikorita",
+      "family": "Chikorita",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_152_00.png"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Bayleef",
+      "family": "Chikorita",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_153_00.png"
+      }
+    },
+    {
+      "id": 154,
+      "name": "Meganium",
+      "family": "Chikorita",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_154_00.png"
+      }
+    },
+    {
+      "id": 155,
+      "name": "Cyndaquil",
+      "family": "Cyndaquil",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_004_00.png"
+      }
+    },
+    {
+      "id": 156,
+      "name": "Quilava",
+      "family": "Cyndaquil",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_156_00.png"
+      }
+    },
+    {
+      "id": 157,
+      "name": "Typhlosion",
+      "family": "Cyndaquil",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_157_00.png"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Totodile",
+      "family": "Totodile",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_158_00.png"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Croconaw",
+      "family": "Totodile",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_159_00.png"
+      }
+    },
+    {
+      "id": 160,
+      "name": "Feraligatr",
+      "family": "Totodile",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_160_00.png"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Sentret",
+      "family": "Sentret",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_161_00.png"
+      }
+    },
+    {
+      "id": 162,
+      "name": "Furret",
+      "family": "Sentret",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_162_00.png"
+      }
+    },
+    {
+      "id": 163,
+      "name": "Hoothoot",
+      "family": "Hoothoot",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_163_00.png"
+      }
+    },
+    {
+      "id": 164,
+      "name": "Noctowl",
+      "family": "Hoothoot",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_164_00.png"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Ledyba",
+      "family": "Ledyba",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_165_00.png"
+      }
+    },
+    {
+      "id": 166,
+      "name": "Ledian",
+      "family": "Ledyba",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_166_00.png"
+      }
+    },
+    {
+      "id": 167,
+      "name": "Spinarak",
+      "family": "Spinarak",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_167_00.png"
+      }
+    },
+    {
+      "id": 168,
+      "name": "Ariados",
+      "family": "Spinarak",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_168_00.png"
+      }
+    },
+    {
+      "id": 169,
+      "name": "Crobat",
+      "family": "Zubat",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_169_00.png"
+      }
+    },
+    {
+      "id": 170,
+      "name": "Chinchou",
+      "family": "Chinchou",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_170_00.png"
+      }
+    },
+    {
+      "id": 171,
+      "name": "Lanturn",
+      "family": "Chinchou",
+      "generation": 2,
+      "reigon": "johto",
+      "sprites": {
+        "front_default": "https://cdn.jsdelivr.net/gh/PokeMiners/pogo_assets/Images/Pokemon%20-%20256x256/pokemon_icon_171_00.png"
+      }
+    }
+  ]
+}
